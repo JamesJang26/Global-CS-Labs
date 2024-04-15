@@ -33,7 +33,7 @@
                 <td>Medinfo Lab</td>
                 <td>Prof. Jinwook Choi</td>
                 <td><a href="https://medinfolab.snu.ac.kr/" style="color: blue;">Website</a></td>
-                <td>contact@jamesjang26@snu.ac.kr</td>
+                <td>jamesjang26@snu.ac.kr</td>
                 <td>"NLP in Medicine"</td>
                 <td>Seoul, Korea</td>
             </tr>
@@ -41,8 +41,16 @@
                 <td>CL_NLP Lab</td>
                 <td>Prof. Hyopil Shin</td>
                 <td><a href="http://knlp.snu.ac.kr/" style="color: blue;">Website</a></td>
-                <td>contact@hpshin@snu.ac.kr</td>
+                <td>hpshin@snu.ac.kr</td>
                 <td>"NLP"</td>
+                <td>Seoul, Korea</td>
+            </tr>
+            <tr>
+                <td>SNUH BMI Lab</td>
+                <td>Prof. Kwangsoo Kim</td>
+                <td><a href="https://sites.google.com/view/snuh-bmi-lab/home" style="color: blue;">Website</a></td>
+                <td>bmilab.snuh@gmail.com</td>
+                <td>NLP, Bioinformatics, Medical AI</td>
                 <td>Seoul, Korea</td>
             </tr>
         </table>
