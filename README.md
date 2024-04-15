@@ -14,40 +14,50 @@
 
 ---
 
-<div id="Asia" style="background-color: #F0F0F0; padding: 10px; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h2 style="color: #004289;">Asia</h2>
-    <table style="width:100%; border-collapse: collapse;">
-        <tr style="background-color: #004289; color: white;">
-            <th>Lab Name</th>
-            <th>Professor</th>
-            <th>Website</th>
-            <th>Email</th>
-            <th>Representative Publication</th>
-            <th>Address</th>
-        </tr>
-        <tr>
-            <td>Medinfo Lab</td>
-            <td>Prof. Jinwook Choi</td>
-            <td><a href="https://medinfolab.snu.ac.kr/" style="color: blue;">Website</a></td>
-            <td>contact@jamesjang26@snu.ac.kr</td>
-            <td>"NLP in Medicine"</td>
-            <td>103, Daehak-ro, Jongno-gu, Seoul, Republic of Korea</td>
-        </tr>
-    </table>
-</div>
+### 🌍 Regions
 
----
-
-### 🌎 Regions
-
-<div style="display: flex; justify-content: space-around; padding: 20px; background-color: #f2f2f2; border-radius: 10px; margin-top: 20px;">
-    <div id="Europe" style="padding: 10px; border-radius: 5px; flex-grow: 1; margin-right: 20px; background-color: white; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; padding: 20px; background-color: #f2f2f2; border-radius: 10px; margin-top: 20px;">
+    <div id="Asia" style="padding: 10px; border-radius: 5px; flex-basis: 30%; background-color: white; box-shadow: 0 4px 8px rgba(0,0,0,0.05); margin: 10px;">
+        <h2 style="color: #004289;">Asia</h2>
+        <table style="width:100%; border-collapse: collapse;">
+            <tr style="background-color: #004289; color: white;">
+                <th>Lab Name</th>
+                <th>Professor</th>
+                <th>Website</th>
+                <th>Email</th>
+                <th>Representative Publication</th>
+                <th>Address</th>
+            </tr>
+            <tr>
+                <td>Medinfo Lab</td>
+                <td>Prof. Jinwook Choi</td>
+                <td><a href="https://medinfolab.snu.ac.kr/" style="color: blue;">Website</a></td>
+                <td>contact@jamesjang26@snu.ac.kr</td>
+                <td>"NLP in Medicine"</td>
+                <td>103, Daehak-ro, Jongno-gu, Seoul, Republic of Korea</td>
+            </tr>
+        </table>
+    </div>
+    </div>
+    <div id="Europe" style="padding: 10px; border-radius: 5px; flex-basis: 30%; background-color: white; box-shadow: 0 4px 8px rgba(0,0,0,0.05); margin: 10px;">
         <h2 style="color: #004289;">Europe</h2>
         <!-- Table for Europe -->
     </div>
-    <div id="North America" style="padding: 10px; border-radius: 5px; flex-grow: 1; background-color: white; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
+    <div id="North America" style="padding: 10px; border-radius: 5px; flex-basis: 30%; background-color: white; box-shadow: 0 4px 8px rgba(0,0,0,0.05); margin: 10px;">
         <h2 style="color: #004289;">North America</h2>
         <!-- Table for North America -->
+    </div>
+    <div id="South America" style="padding: 10px; border-radius: 5px; flex-basis: 30%; background-color: white; box-shadow: 0 4px 8px rgba(0,0,0,0.05); margin: 10px;">
+        <h2 style="color: #004289;">South America</h2>
+        <!-- Table for South America -->
+    </div>
+    <div id="Africa" style="padding: 10px; border-radius: 5px; flex-basis: 30%; background-color: white; box-shadow: 0 4px 8px rgba(0,0,0,0.05); margin: 10px;">
+        <h2 style="color: #004289;">Africa</h2>
+        <!-- Table for Africa -->
+    </div>
+    <div id="Australia" style="padding: 10px; border-radius: 5px; flex-basis: 30%; background-color: white; box-shadow: 0 4px 8px rgba(0,0,0,0.05); margin: 10px;">
+        <h2 style="color: #004289;">Australia</h2>
+        <!-- Table for Australia -->
     </div>
 </div>
 
@@ -66,14 +76,3 @@
 2. **Include Badges**: Add badges from websites like Shields.io to display dynamic information, such as number of contributors, last commit, etc.
 3. **Visual Separation**: Use horizontal rules (`---`) to visually separate different sections for better readability.
 4. **Linking Sections**: Use anchor links in your Table of Contents to allow easy navigation to different sections of your README.
-
-<style>
-    table th, table td {
-        padding: 8px;
-        text-align: left;
-        border-bottom: 1px solid #ddd;
-    }
-    a:hover {
-        color: #ff6347; /* Tomato color for hover effects */
-    }
-</style>
