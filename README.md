@@ -38,7 +38,7 @@
 
 ---
 <div id="Europe" style="background-color: #F0F0F0; padding: 10px; border-radius: 5px;">
-    <h2>Asia</h2>
+    <h2>Europe</h2>
     <table style="width:100%; border-collapse: collapse;">
         <tr style="background-color: #004289; color: white;">
             <th>Lab Name</th>
@@ -62,7 +62,7 @@
 ---
 
 <div id="North America" style="background-color: #F0F0F0; padding: 10px; border-radius: 5px;">
-    <h2>Asia</h2>
+    <h2>North America</h2>
     <table style="width:100%; border-collapse: collapse;">
         <tr style="background-color: #004289; color: white;">
             <th>Lab Name</th>
@@ -86,7 +86,7 @@
 ---
 
 <div id="South America" style="background-color: #F0F0F0; padding: 10px; border-radius: 5px;">
-    <h2>Asia</h2>
+    <h2>South America</h2>
     <table style="width:100%; border-collapse: collapse;">
         <tr style="background-color: #004289; color: white;">
             <th>Lab Name</th>
@@ -110,7 +110,7 @@
 ---
 
 <div id="Africa" style="background-color: #F0F0F0; padding: 10px; border-radius: 5px;">
-    <h2>Asia</h2>
+    <h2>Africa</h2>
     <table style="width:100%; border-collapse: collapse;">
         <tr style="background-color: #004289; color: white;">
             <th>Lab Name</th>
@@ -134,7 +134,7 @@
 ---
 
 <div id="Australia" style="background-color: #F0F0F0; padding: 10px; border-radius: 5px;">
-    <h2>Asia</h2>
+    <h2>Australia</h2>
     <table style="width:100%; border-collapse: collapse;">
         <tr style="background-color: #004289; color: white;">
             <th>Lab Name</th>
