@@ -34,7 +34,7 @@
                 <td>Prof. Jinwook Choi</td>
                 <td><a href="https://medinfolab.snu.ac.kr/" style="color: blue;">Website</a></td>
                 <td>jamesjang26@snu.ac.kr</td>
-                <td>"NLP in Medicine"</td>
+                <td>NLP in Medicine</td>
                 <td>Seoul, Korea</td>
             </tr>
             <tr>
@@ -42,7 +42,7 @@
                 <td>Prof. Hyopil Shin</td>
                 <td><a href="http://knlp.snu.ac.kr/" style="color: blue;">Website</a></td>
                 <td>hpshin@snu.ac.kr</td>
-                <td>"NLP"</td>
+                <td>NLP</td>
                 <td>Seoul, Korea</td>
             </tr>
             <tr>
@@ -52,6 +52,14 @@
                 <td>bmilab.snuh@gmail.com</td>
                 <td>NLP, Bioinformatics, Medical AI</td>
                 <td>Seoul, Korea</td>
+            </tr>
+            <tr>
+                <td>NLPCL KAIST</td>
+                <td>Prof. Jong Chul Park</td>
+                <td><a href="http://nlpcl.kaist.ac.kr/home/" style="color: blue;">Website</a></td>
+                <td>jongparkkaist.ac.kr</td>
+                <td>NLP</td>
+                <td>Daejeon, Korea</td>
             </tr>
         </table>
     </div>
