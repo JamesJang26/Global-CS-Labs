@@ -165,4 +165,8 @@
 1. **Use Emojis**: Enhance readability and attention by using emojis in section titles or to highlight important notes.
 2. **Include Badges**: Add badges from websites like Shields.io to display dynamic information, such as number of contributors, last commit, etc.
 3. **Visual Separation**: Use horizontal rules (`---`) to visually separate different sections for better readability.
-4. **Linking Sections**: Use anchor links in your Table of Contents to allow easy navigation to different sections of your README.
+
+---
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJamesJang26%2FGlobal-NLP-Research-Labs&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+5. **Linking Sections**: Use anchor links in your Table of Contents to allow easy navigation to different sections of your README.
