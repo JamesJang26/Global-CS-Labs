@@ -33,7 +33,8 @@
                 <td>Medinfo Lab</td>
                 <td>Prof. Jinwook Choi</td>
                 <td><a href="https://medinfolab.snu.ac.kr/" style="color: blue;">Website</a></td>
-                <td>jamesjang26@snu.ac.kr</td>
+                <td>
+jinchoi@snu.ac.kr\njamesjang26@snu.ac.kr</td>
                 <td>NLP in Medicine</td>
                 <td>Seoul, Korea</td>
             </tr>
