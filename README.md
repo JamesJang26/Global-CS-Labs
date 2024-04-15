@@ -40,24 +40,114 @@
     </div>
     </div>
     <div id="Europe" style="padding: 10px; border-radius: 5px; flex-basis: 30%; background-color: white; box-shadow: 0 4px 8px rgba(0,0,0,0.05); margin: 10px;">
-        <h2 style="color: #004289;">Europe</h2>
-        <!-- Table for Europe -->
+       <h2 style="color: #004289;">Europe</h2>
+        <table style="width:100%; border-collapse: collapse;">
+            <tr style="background-color: #004289; color: white;">
+                <th>Lab Name</th>
+                <th>Professor</th>
+                <th>Website</th>
+                <th>Email</th>
+                <th>Representative Publication</th>
+                <th>Address</th>
+            </tr>
+            <tr>
+                <td>Medinfo Lab</td>
+                <td>Prof. Jinwook Choi</td>
+                <td><a href="https://medinfolab.snu.ac.kr/" style="color: blue;">Website</a></td>
+                <td>contact@jamesjang26@snu.ac.kr</td>
+                <td>"NLP in Medicine"</td>
+                <td>103, Daehak-ro, Jongno-gu, Seoul, Republic of Korea</td>
+            </tr>
+        </table>
+    </div>
     </div>
     <div id="North America" style="padding: 10px; border-radius: 5px; flex-basis: 30%; background-color: white; box-shadow: 0 4px 8px rgba(0,0,0,0.05); margin: 10px;">
-        <h2 style="color: #004289;">North America</h2>
-        <!-- Table for North America -->
+       <h2 style="color: #004289;">North America</h2>
+        <table style="width:100%; border-collapse: collapse;">
+            <tr style="background-color: #004289; color: white;">
+                <th>Lab Name</th>
+                <th>Professor</th>
+                <th>Website</th>
+                <th>Email</th>
+                <th>Representative Publication</th>
+                <th>Address</th>
+            </tr>
+            <tr>
+                <td>Medinfo Lab</td>
+                <td>Prof. Jinwook Choi</td>
+                <td><a href="https://medinfolab.snu.ac.kr/" style="color: blue;">Website</a></td>
+                <td>contact@jamesjang26@snu.ac.kr</td>
+                <td>"NLP in Medicine"</td>
+                <td>103, Daehak-ro, Jongno-gu, Seoul, Republic of Korea</td>
+            </tr>
+        </table>
+    </div>
     </div>
     <div id="South America" style="padding: 10px; border-radius: 5px; flex-basis: 30%; background-color: white; box-shadow: 0 4px 8px rgba(0,0,0,0.05); margin: 10px;">
-        <h2 style="color: #004289;">South America</h2>
-        <!-- Table for South America -->
+       <h2 style="color: #004289;">South America</h2>
+        <table style="width:100%; border-collapse: collapse;">
+            <tr style="background-color: #004289; color: white;">
+                <th>Lab Name</th>
+                <th>Professor</th>
+                <th>Website</th>
+                <th>Email</th>
+                <th>Representative Publication</th>
+                <th>Address</th>
+            </tr>
+            <tr>
+                <td>Medinfo Lab</td>
+                <td>Prof. Jinwook Choi</td>
+                <td><a href="https://medinfolab.snu.ac.kr/" style="color: blue;">Website</a></td>
+                <td>contact@jamesjang26@snu.ac.kr</td>
+                <td>"NLP in Medicine"</td>
+                <td>103, Daehak-ro, Jongno-gu, Seoul, Republic of Korea</td>
+            </tr>
+        </table>
+    </div>
     </div>
     <div id="Africa" style="padding: 10px; border-radius: 5px; flex-basis: 30%; background-color: white; box-shadow: 0 4px 8px rgba(0,0,0,0.05); margin: 10px;">
-        <h2 style="color: #004289;">Africa</h2>
-        <!-- Table for Africa -->
+       <h2 style="color: #004289;">Africa</h2>
+        <table style="width:100%; border-collapse: collapse;">
+            <tr style="background-color: #004289; color: white;">
+                <th>Lab Name</th>
+                <th>Professor</th>
+                <th>Website</th>
+                <th>Email</th>
+                <th>Representative Publication</th>
+                <th>Address</th>
+            </tr>
+            <tr>
+                <td>Medinfo Lab</td>
+                <td>Prof. Jinwook Choi</td>
+                <td><a href="https://medinfolab.snu.ac.kr/" style="color: blue;">Website</a></td>
+                <td>contact@jamesjang26@snu.ac.kr</td>
+                <td>"NLP in Medicine"</td>
+                <td>103, Daehak-ro, Jongno-gu, Seoul, Republic of Korea</td>
+            </tr>
+        </table>
+    </div>
     </div>
     <div id="Australia" style="padding: 10px; border-radius: 5px; flex-basis: 30%; background-color: white; box-shadow: 0 4px 8px rgba(0,0,0,0.05); margin: 10px;">
-        <h2 style="color: #004289;">Australia</h2>
-        <!-- Table for Australia -->
+       <h2 style="color: #004289;">Australia</h2>
+        <table style="width:100%; border-collapse: collapse;">
+            <tr style="background-color: #004289; color: white;">
+                <th>Lab Name</th>
+                <th>Professor</th>
+                <th>Website</th>
+                <th>Email</th>
+                <th>Representative Publication</th>
+                <th>Address</th>
+            </tr>
+            <tr>
+                <td>Medinfo Lab</td>
+                <td>Prof. Jinwook Choi</td>
+                <td><a href="https://medinfolab.snu.ac.kr/" style="color: blue;">Website</a></td>
+                <td>contact@jamesjang26@snu.ac.kr</td>
+                <td>"NLP in Medicine"</td>
+                <td>103, Daehak-ro, Jongno-gu, Seoul, Republic of Korea</td>
+            </tr>
+        </table>
+    </div>
     </div>
 </div>
 
