@@ -35,7 +35,15 @@
                 <td><a href="https://medinfolab.snu.ac.kr/" style="color: blue;">Website</a></td>
                 <td>contact@jamesjang26@snu.ac.kr</td>
                 <td>"NLP in Medicine"</td>
-                <td>103, Daehak-ro, Jongno-gu, Seoul, Republic of Korea</td>
+                <td>Seoul, Korea</td>
+            </tr>
+            <tr>
+                <td>CL_NLP Lab</td>
+                <td>Prof. Hyopil Shin</td>
+                <td><a href="http://knlp.snu.ac.kr/" style="color: blue;">Website</a></td>
+                <td>contact@hpshin@snu.ac.kr</td>
+                <td>"NLP"</td>
+                <td>Seoul, Korea</td>
             </tr>
         </table>
     </div>
@@ -51,14 +59,6 @@
                 <th>Research Interests</th>
                 <th>Country/Area</th>
             </tr>
-            <tr>
-                <td>Medinfo Lab</td>
-                <td>Prof. Jinwook Choi</td>
-                <td><a href="https://medinfolab.snu.ac.kr/" style="color: blue;">Website</a></td>
-                <td>contact@jamesjang26@snu.ac.kr</td>
-                <td>"NLP in Medicine"</td>
-                <td>103, Daehak-ro, Jongno-gu, Seoul, Republic of Korea</td>
-            </tr>
         </table>
     </div>
     </div>
@@ -72,14 +72,6 @@
                 <th>Email</th>
                 <th>Research Interests</th>
                 <th>Country/Area</th>
-            </tr>
-            <tr>
-                <td>Medinfo Lab</td>
-                <td>Prof. Jinwook Choi</td>
-                <td><a href="https://medinfolab.snu.ac.kr/" style="color: blue;">Website</a></td>
-                <td>contact@jamesjang26@snu.ac.kr</td>
-                <td>"NLP in Medicine"</td>
-                <td>103, Daehak-ro, Jongno-gu, Seoul, Republic of Korea</td>
             </tr>
         </table>
     </div>
@@ -95,14 +87,6 @@
                 <th>Research Interests</th>
                 <th>Country/Area</th>
             </tr>
-            <tr>
-                <td>Medinfo Lab</td>
-                <td>Prof. Jinwook Choi</td>
-                <td><a href="https://medinfolab.snu.ac.kr/" style="color: blue;">Website</a></td>
-                <td>contact@jamesjang26@snu.ac.kr</td>
-                <td>"NLP in Medicine"</td>
-                <td>103, Daehak-ro, Jongno-gu, Seoul, Republic of Korea</td>
-            </tr>
         </table>
     </div>
     </div>
@@ -117,14 +101,6 @@
                 <th>Research Interests</th>
                 <th>Country/Area</th>
             </tr>
-            <tr>
-                <td>Medinfo Lab</td>
-                <td>Prof. Jinwook Choi</td>
-                <td><a href="https://medinfolab.snu.ac.kr/" style="color: blue;">Website</a></td>
-                <td>contact@jamesjang26@snu.ac.kr</td>
-                <td>"NLP in Medicine"</td>
-                <td>103, Daehak-ro, Jongno-gu, Seoul, Republic of Korea</td>
-            </tr>
         </table>
     </div>
     </div>
@@ -138,14 +114,6 @@
                 <th>Email</th>
                 <th>Research Interests</th>
                 <th>Country/Area</th>
-            </tr>
-            <tr>
-                <td>Medinfo Lab</td>
-                <td>Prof. Jinwook Choi</td>
-                <td><a href="https://medinfolab.snu.ac.kr/" style="color: blue;">Website</a></td>
-                <td>contact@jamesjang26@snu.ac.kr</td>
-                <td>"NLP in Medicine"</td>
-                <td>103, Daehak-ro, Jongno-gu, Seoul, Republic of Korea</td>
             </tr>
         </table>
     </div>
