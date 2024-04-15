@@ -26,7 +26,7 @@
                 <th>Website</th>
                 <th>Email</th>
                 <th>Research Interests</th>
-                <th>Address</th>
+                <th>Country/Area</th>
             </tr>
             <tr>
                 <td>Medinfo Lab</td>
@@ -48,7 +48,7 @@
                 <th>Website</th>
                 <th>Email</th>
                 <th>Research Interests</th>
-                <th>Address</th>
+                <th>Country/Area</th>
             </tr>
             <tr>
                 <td>Medinfo Lab</td>
@@ -70,7 +70,7 @@
                 <th>Website</th>
                 <th>Email</th>
                 <th>Research Interests</th>
-                <th>Address</th>
+                <th>Country/Area</th>
             </tr>
             <tr>
                 <td>Medinfo Lab</td>
@@ -92,7 +92,7 @@
                 <th>Website</th>
                 <th>Email</th>
                 <th>Research Interests</th>
-                <th>Address</th>
+                <th>Country/Area</th>
             </tr>
             <tr>
                 <td>Medinfo Lab</td>
@@ -114,7 +114,7 @@
                 <th>Website</th>
                 <th>Email</th>
                 <th>Research Interests</th>
-                <th>Address</th>
+                <th>Country/Area</th>
             </tr>
             <tr>
                 <td>Medinfo Lab</td>
@@ -136,7 +136,7 @@
                 <th>Website</th>
                 <th>Email</th>
                 <th>Research Interests</th>
-                <th>Address</th>
+                <th>Country/Area</th>
             </tr>
             <tr>
                 <td>Medinfo Lab</td>
