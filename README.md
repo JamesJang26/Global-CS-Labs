@@ -25,7 +25,7 @@
                 <th>Professor</th>
                 <th>Website</th>
                 <th>Email</th>
-                <th>Representative Publication</th>
+                <th>Research Interests</th>
                 <th>Address</th>
             </tr>
             <tr>
@@ -47,7 +47,7 @@
                 <th>Professor</th>
                 <th>Website</th>
                 <th>Email</th>
-                <th>Representative Publication</th>
+                <th>Research Interests</th>
                 <th>Address</th>
             </tr>
             <tr>
@@ -69,7 +69,7 @@
                 <th>Professor</th>
                 <th>Website</th>
                 <th>Email</th>
-                <th>Representative Publication</th>
+                <th>Research Interests</th>
                 <th>Address</th>
             </tr>
             <tr>
@@ -91,7 +91,7 @@
                 <th>Professor</th>
                 <th>Website</th>
                 <th>Email</th>
-                <th>Representative Publication</th>
+                <th>Research Interests</th>
                 <th>Address</th>
             </tr>
             <tr>
@@ -113,7 +113,7 @@
                 <th>Professor</th>
                 <th>Website</th>
                 <th>Email</th>
-                <th>Representative Publication</th>
+                <th>Research Interests</th>
                 <th>Address</th>
             </tr>
             <tr>
@@ -135,7 +135,7 @@
                 <th>Professor</th>
                 <th>Website</th>
                 <th>Email</th>
-                <th>Representative Publication</th>
+                <th>Research Interests</th>
                 <th>Address</th>
             </tr>
             <tr>
