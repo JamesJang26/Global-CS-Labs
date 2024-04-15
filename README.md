@@ -58,7 +58,8 @@
                 <td>NLPCL KAIST</td>
                 <td>Prof. Jong Chul Park</td>
                 <td><a href="http://nlpcl.kaist.ac.kr/home/" style="color: blue;">Website</a></td>
-                <td>jongparkkaist.ac.kr</td>
+                <td>park@nlp.kaist.ac.kr
+                jongpark@kaist.ac.kr</td>
                 <td>NLP</td>
                 <td>Daejeon, Korea</td>
             </tr>
@@ -89,6 +90,56 @@
                 <th>Email</th>
                 <th>Research Interests</th>
                 <th>Country/Area</th>
+            </tr>
+            <tr>
+                <td>LUKA Group</td>
+                <td>Prof. Muhao Chenk</td>
+                <td><a href="https://luka-group.github.io/index.html" style="color: blue;">Website</a></td>
+                <td>muhchen@ucdavis.edu</td>
+                <td>NLP</td>
+                <td>California, USA</td>
+            </tr>
+            <tr>
+                <td>MURGe-Lab</td>
+                <td>Prof. Mohit Bansal</td>
+                <td><a href="https://murgelab.cs.unc.edu/index.html" style="color: blue;">Website</a></td>
+                <td>mbansal@cs.unc.edu</td>
+                <td>NLP</td>
+                <td>North Carolina, USA</td>
+            </tr>
+            <tr>
+                <td>Chaturvedi-Lab</td>
+                <td>Prof. Snigdha Chaturvedi</td>
+                <td><a href="https://sites.google.com/site/snigdhac/advisees" style="color: blue;">Website</a></td>
+                <td>snigdha@cs.unc.edu</td>
+                <td>NLP</td>
+                <td>North Carolina, USA</td>
+            </tr>
+            <tr>
+                <td>Srivastava-Lab</td>
+                <td>Prof. Shashank Srivastava</td>
+                <td><a href="https://www.ssriva.com/home" style="color: blue;">Website</a>
+                <a href="https://l3-unc.github.io/team/" style="color: blue;">Website</a></td>
+                <td>ssrivastava@cs.unc.edu</td>
+                <td>NLP</td>
+                <td>North Carolina, USA</td>
+            </tr>
+            <tr>
+                <td>Yao-Lab</td>
+                <td>Prof. Huaxiu Yao</td>
+                <td><a href="https://www.huaxiuyao.io/#students" style="color: blue;">Website</a></td>
+                <td>huaxiu@cs.unc.edu
+                yhx662012@gmail.com</td>
+                <td>NLP</td>
+                <td>California, USA</td>
+            </tr>
+            <tr>
+                <td>UNITES-Lab</td>
+                <td>Prof. Tianlong Chen</td>
+                <td><a href="https://tianlong-chen.github.io/index.html#lab" style="color: blue;">Website</a></td>
+                <td>tianlong@cs.unc.edu</td>
+                <td>NLP</td>
+                <td>North Carolina, USA</td>
             </tr>
         </table>
     </div>
