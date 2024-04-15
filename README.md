@@ -14,7 +14,126 @@
 
 ---
 
-<div id="asia" style="background-color: #F0F0F0; padding: 10px; border-radius: 5px;">
+<div id="Asia" style="background-color: #F0F0F0; padding: 10px; border-radius: 5px;">
+    <h2>Asia</h2>
+    <table style="width:100%; border-collapse: collapse;">
+        <tr style="background-color: #004289; color: white;">
+            <th>Lab Name</th>
+            <th>Professor</th>
+            <th>Website</th>
+            <th>Email</th>
+            <th>Representative Publication</th>
+            <th>Address</th>
+        </tr>
+        <tr>
+            <td>Seoul NLP Lab</td>
+            <td>Prof. Kim Lee</td>
+            <td><a href="http://www.seoulnlplab.kr" style="color: blue;">Website</a></td>
+            <td>contact@seoulnlplab.kr</td>
+            <td>"Deep Learning for NLP"</td>
+            <td>123 Seoul Rd, Seoul, South Korea</td>
+        </tr>
+    </table>
+</div>
+
+---
+<div id="Europe" style="background-color: #F0F0F0; padding: 10px; border-radius: 5px;">
+    <h2>Asia</h2>
+    <table style="width:100%; border-collapse: collapse;">
+        <tr style="background-color: #004289; color: white;">
+            <th>Lab Name</th>
+            <th>Professor</th>
+            <th>Website</th>
+            <th>Email</th>
+            <th>Representative Publication</th>
+            <th>Address</th>
+        </tr>
+        <tr>
+            <td>Seoul NLP Lab</td>
+            <td>Prof. Kim Lee</td>
+            <td><a href="http://www.seoulnlplab.kr" style="color: blue;">Website</a></td>
+            <td>contact@seoulnlplab.kr</td>
+            <td>"Deep Learning for NLP"</td>
+            <td>123 Seoul Rd, Seoul, South Korea</td>
+        </tr>
+    </table>
+</div>
+
+---
+
+<div id="North America" style="background-color: #F0F0F0; padding: 10px; border-radius: 5px;">
+    <h2>Asia</h2>
+    <table style="width:100%; border-collapse: collapse;">
+        <tr style="background-color: #004289; color: white;">
+            <th>Lab Name</th>
+            <th>Professor</th>
+            <th>Website</th>
+            <th>Email</th>
+            <th>Representative Publication</th>
+            <th>Address</th>
+        </tr>
+        <tr>
+            <td>Seoul NLP Lab</td>
+            <td>Prof. Kim Lee</td>
+            <td><a href="http://www.seoulnlplab.kr" style="color: blue;">Website</a></td>
+            <td>contact@seoulnlplab.kr</td>
+            <td>"Deep Learning for NLP"</td>
+            <td>123 Seoul Rd, Seoul, South Korea</td>
+        </tr>
+    </table>
+</div>
+
+---
+
+<div id="South America" style="background-color: #F0F0F0; padding: 10px; border-radius: 5px;">
+    <h2>Asia</h2>
+    <table style="width:100%; border-collapse: collapse;">
+        <tr style="background-color: #004289; color: white;">
+            <th>Lab Name</th>
+            <th>Professor</th>
+            <th>Website</th>
+            <th>Email</th>
+            <th>Representative Publication</th>
+            <th>Address</th>
+        </tr>
+        <tr>
+            <td>Seoul NLP Lab</td>
+            <td>Prof. Kim Lee</td>
+            <td><a href="http://www.seoulnlplab.kr" style="color: blue;">Website</a></td>
+            <td>contact@seoulnlplab.kr</td>
+            <td>"Deep Learning for NLP"</td>
+            <td>123 Seoul Rd, Seoul, South Korea</td>
+        </tr>
+    </table>
+</div>
+
+---
+
+<div id="Africa" style="background-color: #F0F0F0; padding: 10px; border-radius: 5px;">
+    <h2>Asia</h2>
+    <table style="width:100%; border-collapse: collapse;">
+        <tr style="background-color: #004289; color: white;">
+            <th>Lab Name</th>
+            <th>Professor</th>
+            <th>Website</th>
+            <th>Email</th>
+            <th>Representative Publication</th>
+            <th>Address</th>
+        </tr>
+        <tr>
+            <td>Seoul NLP Lab</td>
+            <td>Prof. Kim Lee</td>
+            <td><a href="http://www.seoulnlplab.kr" style="color: blue;">Website</a></td>
+            <td>contact@seoulnlplab.kr</td>
+            <td>"Deep Learning for NLP"</td>
+            <td>123 Seoul Rd, Seoul, South Korea</td>
+        </tr>
+    </table>
+</div>
+
+---
+
+<div id="Australia" style="background-color: #F0F0F0; padding: 10px; border-radius: 5px;">
     <h2>Asia</h2>
     <table style="width:100%; border-collapse: collapse;">
         <tr style="background-color: #004289; color: white;">
