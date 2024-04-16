@@ -1,12 +1,10 @@
 # :globe_with_meridians: Global-CS-Labs :school:
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJamesJang26%2FGlobal-CS-Labs%2Fblob%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <div style="color: #333; font-size: 20px; text-align: center; margin-top: 20px; border-bottom: 2px solid #004289;">
     <strong>Welcome to the comprehensive repository of Computer Science research labs worldwide. This resource aims to foster global collaboration and knowledge sharing across various subfields of computer science.</strong>
 </div>
-
-## :earth_americas: Interactive World Map of Research Labs
-![World Map](world_map.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
