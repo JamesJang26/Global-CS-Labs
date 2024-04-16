@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJamesJang26%2FGlobal-CS-Labs%2Ftree%2Fmain%2FAI%26ML%2FDeep%2520Learning&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <div style="color: #333; font-size: 20px; text-align: center; margin-top: 20px; border-bottom: 2px solid #004289;">
-    <strong>Welcome to the repository where you can find information about Deep Learning research labs around the world, categorized by continent. This resource aims to facilitate global collaboration and knowledge exchange in the field of NLP.</strong>
+    <strong>Welcome to the repository where you can find information about Deep Learning research labs around the world, categorized by continent. This resource aims to facilitate global collaboration and knowledge exchange in the field of Deep Learning.</strong>
 </div>
 
 ## Heatmap of Country Code Appearances
