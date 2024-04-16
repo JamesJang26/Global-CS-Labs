@@ -1,6 +1,6 @@
 
 # :star2:Global Systems and Networking Research Labs:school:
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJamesJang26%2FGlobal-CS-Labs%2Fblob%2Fmain%2FSystems%2520and%2520Networking%2FREADME.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <div style="color: #333; font-size: 20px; text-align: center; margin-top: 20px; border-bottom: 2px solid #004289;">
     <strong>Welcome to the repository where you can find information about Systems and Networking(Operating Systems, Distributed Systems, Network Security, Cloud Computing, Mobile Computing and etc.) research labs around the world, categorized by continent. This resource aims to facilitate global collaboration and knowledge exchange in the field of Systems and Networking.</strong>
