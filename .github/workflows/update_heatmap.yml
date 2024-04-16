@@ -1,0 +1,32 @@
+name: Update Heatmap
+
+on:
+  schedule:
+    - cron: '0 15 * * *'  # Run at 15:00 UTC, which is 00:00 KST (Korea Standard Time)
+
+jobs:
+  update-heatmap:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+
+      - name: Install dependencies
+        run: |
+          pip install pandas plotly markdown kaleido
+
+      - name: Run script
+        run: python generate_heatmap.py
+
+      - name: Commit and push if changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md heatmap.png
+          git commit -m "Update heatmap" -a || echo "No changes to commit"
+          git push
