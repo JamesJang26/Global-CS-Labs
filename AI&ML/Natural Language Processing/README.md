@@ -103,7 +103,7 @@
             </tr>
             <tr>
                 <td>LUKA Group</td>
-                <td>Prof. Muhao Chenk</td>
+                <td>Prof. Muhao Chen</td>
                 <td><a href="https://luka-group.github.io/index.html" style="color: blue;">Website</a></td>
                 <td>muhchen@ucdavis.edu</td>
                 <td>NLP</td>
